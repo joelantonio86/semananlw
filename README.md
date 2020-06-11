@@ -1,3 +1,4 @@
+
 # semananlw
 Aplicação web de pesquisa, cadastro de entidades de coletas de Lixo
 
